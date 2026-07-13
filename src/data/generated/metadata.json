@@ -1,0 +1,25 @@
+{
+  "sourceFile": "data/Tranquilitas_Caribbean_Tracker_Simplified.xlsx",
+  "lastNormalizedAt": "2026-07-13T02:23:32.877993+00:00",
+  "sheetsUsed": [
+    "LOG_ENTRIES",
+    "CONFIG_SERVICES",
+    "CONFIG_COMMISSIONS",
+    "CONFIG_COUNTRIES",
+    "README"
+  ],
+  "availableRange": {
+    "start": "2026-01-12",
+    "end": "2026-03-26"
+  },
+  "defaultCurrency": "USD",
+  "recordCounts": {
+    "totalPopulatedRecords": 40,
+    "validRecords": 34,
+    "reviewRecords": 6
+  },
+  "configuredMarkets": 15,
+  "activeServiceDefinitions": 175,
+  "defaultCommissionRate": 0.15,
+  "securityReview": "README sheet inspected; no credentials, tokens, API keys, passwords, or customer contact details were included in generated JSON."
+}

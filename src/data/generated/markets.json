@@ -1,0 +1,203 @@
+[
+  {
+    "region": "Caribbean",
+    "country": "Anguilla",
+    "canonicalCountry": "Anguilla",
+    "countryCode": "AIA",
+    "aliases": [
+      "anguilla",
+      "angu"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Antigua",
+    "canonicalCountry": "Antigua",
+    "countryCode": "ATG",
+    "aliases": [
+      "antigua",
+      "antigua and barbuda",
+      "ant"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "BVI",
+    "canonicalCountry": "BVI",
+    "countryCode": "VGB",
+    "aliases": [
+      "bvi",
+      "british virgin islands",
+      "virgin islands bvi"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Barbados",
+    "canonicalCountry": "Barbados",
+    "countryCode": "BRB",
+    "aliases": [
+      "barbados",
+      "barb"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Belize",
+    "canonicalCountry": "Belize",
+    "countryCode": "BLZ",
+    "aliases": [
+      "belize"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Cayman Islands",
+    "canonicalCountry": "Cayman Islands",
+    "countryCode": "CYM",
+    "aliases": [
+      "cayman",
+      "cayman islands"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Curaçao",
+    "canonicalCountry": "Curacao",
+    "countryCode": "CUR",
+    "aliases": [
+      "curacao",
+      "curaçao",
+      "cur"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Grenada",
+    "canonicalCountry": "Grenada",
+    "countryCode": "GRD",
+    "aliases": [
+      "grenada",
+      "gre"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "St. Barths",
+    "canonicalCountry": "St Barths",
+    "countryCode": "BLM",
+    "aliases": [
+      "stb",
+      "stbarths"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "St. Kitts and Nevis",
+    "canonicalCountry": "St Kitts and Nevis",
+    "countryCode": "KNA",
+    "aliases": [
+      "stkitts",
+      "skn"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "St. Lucia",
+    "canonicalCountry": "St Lucia",
+    "countryCode": "LCA",
+    "aliases": [
+      "stlucia",
+      "slu"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Turks and Caicos",
+    "canonicalCountry": "Turks and Caicos",
+    "countryCode": "TCA",
+    "aliases": [
+      "turks",
+      "tci",
+      "turks and caicos",
+      "turks caicos"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "US Virgin Islands",
+    "canonicalCountry": "US Virgin Islands",
+    "countryCode": "VIR",
+    "aliases": [
+      "us virgin islands",
+      "u.s. virgin islands",
+      "usvi",
+      "virgin islands us"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "Bonaire",
+    "canonicalCountry": "Bonaire",
+    "countryCode": "BON",
+    "aliases": [
+      "Bonaire"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  },
+  {
+    "region": "Caribbean",
+    "country": "St. Martin",
+    "canonicalCountry": "St. Martin",
+    "countryCode": "ST.",
+    "aliases": [
+      "sxm",
+      "stm",
+      "stmartin"
+    ],
+    "commissionRate": 0.15,
+    "defaultCurrency": "USD",
+    "active": true
+  }
+]
